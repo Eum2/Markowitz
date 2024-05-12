@@ -1,3 +1,5 @@
+Recomendo rodar no colab
+
 Baseado no Modelo de Markowitz para alocação de investimentos, este modelo considera os retornos de ações no intervalo de tempo 2023 - 2024.
 
 
