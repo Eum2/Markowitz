@@ -134,3 +134,6 @@ print("Retorno:", resultados[1,min_vol_index])
 print("Risco:", resultados[0,min_vol_index])
 print("Sharpe Ratio:", resultados[3 + len(tickers),min_vol_index])
 print("Pesos:", response.text ,resultados[2:2+len(tickers),min_vol_index])
+
+response1 = chat.send_message("explique oque é : indice sharpe,risco e retorno.")
+print(response.text, "\n")
